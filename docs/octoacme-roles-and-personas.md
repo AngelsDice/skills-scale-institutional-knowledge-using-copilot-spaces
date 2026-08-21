@@ -97,6 +97,9 @@ QA Engineers define and execute test strategies to ensure that delivered softwar
 - Sprint reviews and release sign-off meetings
 - Coordination with Developers on test environments and automation
 
+### Project Lifecycle Fit
+Active from requirements refinement through release; responsible for sign-off at each quality gate before deployment.
+
 ---
 
 ## Stakeholders
@@ -119,6 +122,9 @@ Stakeholders are internal or external parties with a vested interest in project 
 - Roadmap and milestone reviews
 - Escalation and decision-making for cross-functional issues
 - Stakeholder briefings from Product Managers and Project Managers
+
+### Project Lifecycle Fit
+Engaged at key milestones—discovery, planning, major reviews, and release decisions—rather than day-to-day delivery.
 
 ---
 
